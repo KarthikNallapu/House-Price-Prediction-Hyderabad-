@@ -21,7 +21,8 @@ report/: Project report covering the literature survey, methodology, and results
 # Results:
 The model was tested on real-world housing data, achieving the following metrics:
 
-R-squared (R²) Score: 0.85
+![image](https://github.com/user-attachments/assets/d58758c0-389a-4c92-9d00-0b7c78bc87e6)
+
 
 # Future Scope:
 Model Improvement: Further tuning and inclusion of additional features for higher accuracy.
